@@ -1,0 +1,38 @@
+.name{
+    width: 200px;
+    height: 30px;
+    border-radius: solid 4px;
+}
+.last{
+    width: 200px;
+    height: 30px;
+    border-radius: solid 4px;
+}
+.email{
+    width: 200px;
+    height: 30px;
+    border-radius: solid 4px;
+}
+.pass{
+    width: 200px;
+    height: 30px;
+    border-radius: solid 4px;
+}
+.age{
+    width: 200px;
+    height: 30px;
+    border-radius: solid 4px;
+}
+.submit{
+    
+    width: 200px;
+    height: 30px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
